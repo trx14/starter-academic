@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 view: 2
 title: Mitigating Gender Bias in Captioning Systmes
 date: 2020-10-21T01:47:58.864Z
@@ -12,7 +12,7 @@ authors:
 header:
   caption: ""
   image: ""
-featured: true
+featured: false
 image:
   filename: examples_cropped-1.png
   preview_only: true
