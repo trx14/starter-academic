@@ -8,7 +8,7 @@ address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: '77843'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
