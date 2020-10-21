@@ -28,9 +28,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/trx14
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
 education:
   courses:
     - course: PhD in Computer Engineering
