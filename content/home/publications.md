@@ -67,5 +67,3 @@ subtitle = ""
 +++
 
 \* The authors contribute equally.
-
-Several double blind submissions under WWW review.
