@@ -11,9 +11,10 @@ authors:
 bio: My research interests include interpretable machine learning and its
   applications in security and fairness.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Interpretability
+  - ML Security
+  - ML Fairness
 social:
   - icon: envelope
     icon_pack: fas
