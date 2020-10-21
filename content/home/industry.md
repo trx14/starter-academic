@@ -74,6 +74,6 @@ subtitle = ""
 * Huawei 2012 Lab, Research Intern.
   * Mentor(s): [Dr. Qianxiang Wang](http://sei.pku.edu.cn/~wqx/), [Dr. Guangtai Liang](https://pku.academia.edu/GuangtaiLiang).
   * Nov. 2018 - Mar. 2019
-* 12 Sigma, Research Intern.
+* 12 Sigma Technologies, Research Intern.
   * Mentor(s): [Dr. Dashan Gao](https://scholar.google.com/citations?user=U11LlOsAAAAJ&hl=en).
   * Jan. 2018 - Sep. 2018
