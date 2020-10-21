@@ -3,6 +3,8 @@ title: Ruixiang Tang
 role: PhD Student
 avatar_filename: "Ruixiang.jpg"
 organizations:
+  - name: Computer Science & Engineering
+    url: https://engineering.tamu.edu/cse/index.html
   - name: Texas A&M University
     url: https://www.tamu.edu/
 superuser: true
