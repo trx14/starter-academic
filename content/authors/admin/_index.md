@@ -45,4 +45,4 @@ user_groups:
 highlight_name: false
 email: rxtang@tamu.edu
 ---
-I am currently a 2nd year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. Xia Hu. My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, backdoor & trojan attack, and AI-assisted medical diagnosis.
+I am currently a 2nd year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is [Dr. Xia Hu](https://people.engr.tamu.edu/xiahu/index.html). My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, backdoor & trojan attack, and AI-assisted medical diagnosis.
