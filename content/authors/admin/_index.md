@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: rxtang@tamu.edu
+    link: https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/home?lang=en
