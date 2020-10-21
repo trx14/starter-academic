@@ -1,7 +1,7 @@
 ---
 title: Ruixiang Tang
 role: PhD Student
-avatar_filename: ruixiang.jpg
+avatar_filename: Ruixiang.jpg
 organizations:
   - name: Texas A&M University
     url: https://www.tamu.edu/
