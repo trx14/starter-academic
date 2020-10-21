@@ -12,7 +12,7 @@ authors:
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
 image:
   filename: examples_cropped-1.png
   preview_only: true
