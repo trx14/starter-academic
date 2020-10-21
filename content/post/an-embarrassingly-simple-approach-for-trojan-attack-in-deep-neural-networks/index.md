@@ -14,7 +14,7 @@ tags:
 image:
   filename: traffic_sign.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: An example of trojan attack. The traffic sign classifier has been
     injected with trojans. During the inference phase, (a) model works normally
     without triggers, (b) hackers manipulate the prediction by adding different
