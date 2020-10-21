@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en
+    link: 'mailto:rxtang@tamu.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/home?lang=en
@@ -28,6 +28,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/trx14
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 education:
   courses:
     - course: PhD in Computer Engineering
