@@ -68,7 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-* [Jul. 2019] "TrojanNet – a simple yet effective attack on machine learning models"[The Daily Swig](https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-machine-learning-models).
-* [Dec. 2018] I gave a spotlight oral at NeurIPS 2018 in Montreal, Canada.
-* [Nov. 2018] I attended a bio-seminar at ECE, Texas A&M to present my work about LISTA in NeurIPS 2018.
-* [Mar. 2018] I attended Prof. Simon Foucart's reading seminar on Compressive Sensing, extensions, and applications and gave a presentation about learning-based sparse optimization.
+* [Jul. 2019] "TrojanNet – a simple yet effective attack on machine learning models" [The Daily Swig](https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-machine-learning-models).
+* [Jul. 2019] “An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks”, [Marktechpost](https://www.youtube.com/watch?v=CkVGb2_LR1s).
+* [Jul. 2019] “数秒植入木马，一击即破，你的DNN模型还安全吗?”, [机器之心, SyncedTech](https://www.jiqizhixin.com/articles/2020-07-19-5).
+
