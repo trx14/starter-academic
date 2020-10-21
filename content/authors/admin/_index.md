@@ -1,7 +1,7 @@
 ---
 title: Ruixiang Tang
 role: PhD Student
-avatar_filename: "Ruixiang.jpg"
+avatar_filename: avatar.jpg
 organizations:
   - name: Computer Science & Engineering
     url: https://engineering.tamu.edu/cse/index.html
