@@ -44,7 +44,7 @@ education:
 user_groups:
   - Researchers
   - Visitors
-highlight_name: false
+highlight_name: true
 email: rxtang@tamu.edu
 ---
 Howdy! I am currently a 2nd year Ph.D. student in Department of Computer Science & Engineering, Texas A&M University. My advisor is [Dr. Xia Hu](https://people.engr.tamu.edu/xiahu/index.html), who leads the DATA Lab. I obtained my bachelor’s degree from the Department of Automation, Tsinghua University, advised by Prof. Jiwen Lu. 
