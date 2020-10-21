@@ -72,7 +72,7 @@ subtitle = ""
   * Mentor(s): [Dr. Xiting Wang](https://www.microsoft.com/en-us/research/people/xitwan/), [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/).
   * Mar. 2019 - May. 2019
 * Huawei 2012 Lab, Research Intern.
-  * Mentor(s): [Dr. Qianxiang Wang](http://sei.pku.edu.cn/~wqx/), [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/).
+  * Mentor(s): [Dr. Qianxiang Wang](http://sei.pku.edu.cn/~wqx/), [Dr. Guangtai Liang](https://pku.academia.edu/GuangtaiLiang).
   * Nov. 2018 - Mar. 2019
 * 12 Sigma, Research Intern.
   * Mentor(s): [Dr. Dashan Gao](https://scholar.google.com/citations?user=U11LlOsAAAAJ&hl=en).
