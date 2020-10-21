@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-# {{% /callout %}}
+\* The authors contribute equally.
+
+Several double blind submissions under WWW review.
