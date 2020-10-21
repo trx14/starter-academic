@@ -97,7 +97,7 @@ address = {street = "518 H.R. Bright Building", city = "College Station,", regio
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.6188", longitude = "96.3365"}
+coordinates = {latitude = "30.6188", longitude = "-96.3365"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building HRBB and take the elevator to Office 512 on Floor 5"
