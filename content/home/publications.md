@@ -68,4 +68,4 @@ subtitle = ""
 
 \* The authors contribute equally.
 
-Several double blind submissions under ICLR review.
+Several double blind submissions under WWW review.
