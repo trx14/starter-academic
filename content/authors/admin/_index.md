@@ -19,9 +19,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:rxtang@tamu.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/home?lang=en
+  # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/home?lang=en
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en
