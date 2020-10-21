@@ -8,8 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include interpretable machine learning and its
+  applications in security and fairness.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -44,7 +44,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a 2nd year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. Xia Hu. My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, backdoor & trojan attack, and AI-assisted medical diagnosis.
