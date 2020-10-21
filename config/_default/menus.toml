@@ -21,12 +21,12 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Media"
   url = "#talks"
-  weight = 60
+  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -34,9 +34,9 @@
 [[main]]
   name = "CV"
   url = "files/rxtang.pdf"
-  weight = 70
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
