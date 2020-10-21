@@ -3,8 +3,8 @@ title: Ruixiang Tang
 role: PhD Student
 avatar_filename: ruixiang.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Texas A&M University
+    url: https://www.tamu.edu/
 superuser: true
 authors:
   - admin
@@ -17,31 +17,28 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: rxtang@tamu.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/home?lang=en
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=t4OwrwEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/trx14
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Engineering
+      institution: Texas A&M University
+      year: 2019
+    - course: BSc in Automation
+      institution: Tsinghua Univeristy
+      year: 2014
 user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-email: ""
+email: rxtang@tamu.edu
 ---
 I am currently a 2nd year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. Xia Hu. My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, backdoor & trojan attack, and AI-assisted medical diagnosis.
