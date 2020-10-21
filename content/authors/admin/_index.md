@@ -1,12 +1,13 @@
 ---
+title: Ruixiang Tang
+role: PhD Student
+avatar_filename: ruixiang.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Ruixiang Tang
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
