@@ -47,6 +47,6 @@ user_groups:
 highlight_name: true
 email: rxtang@tamu.edu
 ---
-Howdy! I am currently a 2nd year Ph.D. student in Department of Computer Science & Engineering, Texas A&M University. My advisor is [Dr. Xia Hu](https://people.engr.tamu.edu/xiahu/index.html), who leads the DATA Lab. I obtained my bachelor’s degree from the Department of Automation, Tsinghua University, advised by Prof. Jiwen Lu. 
+Howdy! I am currently a 2nd year Ph.D. student in Department of Computer Science & Engineering, Texas A&M University. My advisor is [Prof. Xia Hu](https://people.engr.tamu.edu/xiahu/index.html), who leads the DATA Lab. I obtained my bachelor’s degree from the Department of Automation, Tsinghua University, advised by [Prof. Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en). 
 
 My research interests lie in interpretable machine learning, with a particular interest in the areas of DNN interpretability. I'm also interested in areas of fairness in deep learning, backdoor & trojan attack, and AI-assisted medical diagnosis.
