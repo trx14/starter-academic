@@ -67,7 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-* [Nov. 2020] "NSF Fairness in Artificial Intelligence Program" [NSF](https://events.bizzabo.com/243735/home).
+* [Nov. 2020] Participate "NSF Fairness in Artificial Intelligence Program" as a community member. [NSF Fariness](https://events.bizzabo.com/243735/home).
 * [Jul. 2020] "TrojanNet – a simple yet effective attack on machine learning models" [The Daily Swig](https://portswigger.net/daily-swig/trojannet-a-simple-yet-effective-attack-on-machine-learning-models).
 * [Jul. 2020] “An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks”, [Marktechpost](https://www.youtube.com/watch?v=CkVGb2_LR1s).
 * [Jul. 2020] “数秒植入木马，一击即破，你的DNN模型还安全吗?”, [机器之心, SyncedTech](https://www.jiqizhixin.com/articles/2020-07-19-5).
