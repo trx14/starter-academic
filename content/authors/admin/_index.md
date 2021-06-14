@@ -3,7 +3,7 @@ title: Ruixiang Tang
 role: PhD Student
 avatar_filename: avatar.jpg
 organizations:
-  - name: Computer Science & Engineering
+  - name: Computer Science
     url: https://engineering.tamu.edu/cse/index.html
   - name: Rice University
     url: https://www.rice.edu/
