@@ -35,7 +35,7 @@ social:
     link: files/rxtang.pdf
 education:
   courses:
-    - course: PhD in Computer Engineering
+    - course: PhD in Computer Science
       institution: Rice University
       year: 2021
     - course: PhD in Computer Engineering
