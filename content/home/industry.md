@@ -67,7 +67,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+* Adobe Research, Research Intern.
+  * Mentor(s): [Curtis Wigington](https://research.adobe.com/person/curtis-wigington/), [Dr. Rajiv Jain](https://research.adobe.com/person/rajiv-jain/).
+  * Mar. 2021 - Aug. 2021
 * Microsoft Research Asia, Research Intern.
   * Mentor(s): [Dr. Xiting Wang](https://www.microsoft.com/en-us/research/people/xitwan/), [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/).
   * Mar. 2019 - May. 2019
